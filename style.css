@@ -89,7 +89,7 @@ body {
 .hero-image {
     background: #6b7280;
     color: #E5E7EB;
-    max-width: 100%;
+    width: 100%;
     height: 220px;  /* match placeholder height */
     display: flex;
     align-items: center;
